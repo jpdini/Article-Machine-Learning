@@ -9,7 +9,7 @@ Explore o fascinante mundo dos algoritmos de Machine Learning com Python! Descub
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/implementando-algoritmos-de-machine-learning-com-python?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://www.dio.me/articles/implementando-algoritmos-de-machine-learning-com-python" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
